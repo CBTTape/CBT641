@@ -1,0 +1,7 @@
+2023-04-03 01:38:01.536358 - Initialized conversion of CBT641
+2023-04-03 01:38:01.577389 - Received CBT.V504.FILE641.PDS from FILE641.XMI 
+2023-04-03 01:38:01.580737 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE641.PDS, moved to PDS/$$$#DATE
+2023-04-03 01:38:01.582182 - Found $$NOTE1.txt (text/plain) in CBT.V504.FILE641.PDS, moved to PDS/$$NOTE1
+2023-04-03 01:38:01.583469 - Found @FILE641.txt (text/plain) in CBT.V504.FILE641.PDS, moved to PDS/@FILE641
+2023-04-03 01:38:01.584713 - Found JESMAXCC.jcl (text/plain) in CBT.V504.FILE641.PDS, moved to PDS/JESMAXCC
+2023-04-03 01:38:01.586096 - Found MVSREMOV.jcl (text/plain) in CBT.V504.FILE641.PDS, moved to PDS/MVSREMOV
